@@ -1,4 +1,4 @@
-// given an SVGAnimatedInteger, return the reverse order of the numbers
+
 // must return a integer not a string
 function reversedInt(num) {
     // in order to use the4 built in methods need to turn the integer into a string.
